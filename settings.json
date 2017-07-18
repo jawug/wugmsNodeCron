@@ -44,11 +44,11 @@
         }, {
             "name": "example node 2",
             "ip_address": "172.1.2.4",
-            "services": ["ap_clients","bgp"]
+            "services": ["ap_clients", "bgp"]
         }, {
             "name": "example node 3",
             "ip_address": "172.1.2.5",
-            "services": ["ap_clients","bgp","arp"]
-        }, 
+            "services": ["ap_clients", "bgp", "arp"]
+        }
     ]
 }
