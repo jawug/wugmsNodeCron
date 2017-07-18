@@ -1,0 +1,19 @@
+{
+  "name": "wugmsNodeCron",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "ThatOneNeji",
+  "contributors": [],
+  "dependencies": {
+    "log4js": "^1.1.1",
+    "moment": "2.18.1",
+    "mysql": "2.13.0",
+    "node-cron": "1.1.3"
+  }
+}
